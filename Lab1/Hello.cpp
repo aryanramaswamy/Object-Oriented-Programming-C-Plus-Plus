@@ -1,3 +1,6 @@
+/***
+ * This lab demonstrates a simple C++ program, basic CLI commands, and an intro to Git and Github.
+ */
 #include <iostream>
 #include <cstdlib>
 using namespace std;
