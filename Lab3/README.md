@@ -1,4 +1,4 @@
-# Lab 2
+# Lab 3
 
 ## Output
-![Output](Lab3/img/lab3output.png)
+![Output](./img/lab3output.png)
